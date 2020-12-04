@@ -3,9 +3,9 @@ In this project, we simulink a generalized water-filling approach to solve the p
 # chart
 <table style="width:100%">
   <tr>
-    <td><img src="https://github.com/JaberBabaki/Sum-Power-Minimization-WaterFilling-Algorithm/blob/master/picture%20chart/p1-q1-100ch.jpg" width="300" height="400" /></td>
+    <td><img src="https://github.com/JaberBabaki/Sum-Power-Minimization-WaterFilling-Algorithm/blob/master/picture%20chart/p1-q1-100ch.jpg" width="500" height="400" /></td>
   </tr>
     <tr>
-    <td><img src="https://github.com/JaberBabaki/Sum-Power-Minimization-WaterFilling-Algorithm/blob/master/picture%20chart/p2-q2-figure.jpg" width="300" height="400" /></td>
+    <td><img src="https://github.com/JaberBabaki/Sum-Power-Minimization-WaterFilling-Algorithm/blob/master/picture%20chart/p2-q2-figure.jpg" width="500" height="400" /></td>
   </tr>
 </table>
